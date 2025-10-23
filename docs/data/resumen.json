@@ -1,17 +1,17 @@
 {
-  "ultima_actualizacion": "2025-10-23T08:25:38.095567",
-  "fecha_legible": "23 de October de 2025, 08:25",
-  "total_productos": 51,
-  "total_registros": 13121,
+  "ultima_actualizacion": "2025-10-23T09:39:46.772034",
+  "fecha_legible": "23 de October de 2025, 09:39",
+  "total_productos": 56,
+  "total_registros": 13845,
   "rango_fechas": {
     "inicio": "2020-01-10T00:00:00",
     "fin": "2025-10-22T18:08:48.333523"
   },
   "estadisticas": {
-    "precio_promedio": 791.1211797881259,
+    "precio_promedio": 816.0389310220296,
     "precio_minimo": 38.0,
     "precio_maximo": 4280.0,
-    "precio_mediana": 560.0
+    "precio_mediana": 585.0
   },
   "version": "1.0",
   "fuente": "Consejo Nacional de Producción - Costa Rica"
