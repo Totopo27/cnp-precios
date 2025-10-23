@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Producto - CNP Precios Costa Rica</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header class="product-header">
+        <div class="container">
+            <nav class="breadcrumb">
+                <a href="index.html"><i class="fas fa-home"></i> Inicio</a>
+                <span class="separator">/</span>
+                <span id="product-breadcrumb">Producto</span>
+            </nav>
+            <h1 id="product-name">Cargando producto...</h1>
+            <div class="product-meta">
+                <span id="last-update">Última actualización: -</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Información principal del producto -->
+        <section class="product-info-section">
+            <div class="info-cards">
+                <div class="info-card price-card">
+                    <div class="card-icon">
+                        <i class="fas fa-tag"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="current-price">₡ -</h3>
+                        <p>Precio Actual</p>
+                    </div>
+                </div>
+                
+                <div class="info-card trend-card">
+                    <div class="card-icon">
+                        <i class="fas fa-chart-line" id="trend-icon"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="trend-value">-</h3>
+                        <p>Tendencia</p>
+                    </div>
+                </div>
+                
+                <div class="info-card range-card">
+                    <div class="card-icon">
+                        <i class="fas fa-arrows-alt-v"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="price-range">₡ - / ₡ -</h3>
+                        <p>Rango (Mín / Máx)</p>
+                    </div>
+                </div>
+                
+                <div class="info-card avg-card">
+                    <div class="card-icon">
+                        <i class="fas fa-calculator"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="avg-price">₡ -</h3>
+                        <p>Precio Promedio</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Gráfico de evolución -->
+        <section class="chart-section">
+            <div class="section-header">
+                <h2>Evolución de Precios</h2>
+                <div class="chart-controls">
+                    <select id="chart-period">
+                        <option value="30">Últimos 30 días</option>
+                        <option value="90" selected>Últimos 3 meses</option>
+                        <option value="180">Últimos 6 meses</option>
+                        <option value="all">Todo el período</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <canvas id="price-chart"></canvas>
+            </div>
+            
+            <div id="chart-loading" class="chart-loading">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Cargando gráfico...</p>
+            </div>
+            
+            <div id="chart-error" class="chart-error" style="display: none;">
+                <i class="fas fa-exclamation-triangle"></i>
+                <p>No hay datos históricos suficientes</p>
+            </div>
+        </section>
+
+        <!-- Estadísticas detalladas -->
+        <section class="stats-section">
+            <h2>Estadísticas Detalladas</h2>
+            <div class="stats-table">
+                <div class="stat-row">
+                    <span class="stat-label">Total de registros:</span>
+                    <span class="stat-value" id="total-records">-</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Precio más bajo registrado:</span>
+                    <span class="stat-value" id="min-price-ever">₡ -</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Precio más alto registrado:</span>
+                    <span class="stat-value" id="max-price-ever">₡ -</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Precio promedio histórico:</span>
+                    <span class="stat-value" id="avg-price-historical">₡ -</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Navegación a otros productos -->
+        <section class="related-section">
+            <h2>Explorar Otros Productos</h2>
+            <div class="action-buttons">
+                <a href="index.html" class="btn btn-primary">
+                    <i class="fas fa-list"></i>
+                    Ver Todos los Productos
+                </a>
+                <button id="random-product" class="btn btn-secondary">
+                    <i class="fas fa-random"></i>
+                    Producto Aleatorio
+                </button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <h4>CNP Precios Costa Rica</h4>
+                    <p>Datos oficiales del Consejo Nacional de Producción de Costa Rica</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 CNP Precios Costa Rica - Datos actualizados automáticamente</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+    <script>
+        // Cargar datos del producto desde URL
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const productName = urlParams.get('producto');
+            if (productName) {
+                loadProductPage(decodeURIComponent(productName));
+            } else {
+                window.location.href = 'index.html';
+            }
+        });
+    </script>
+</body>
+</html>
