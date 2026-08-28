@@ -1,0 +1,1075 @@
+[
+  {
+    "nombre": "Aguacate criollo",
+    "precio_actual": 500.0,
+    "precio_promedio": 525.64,
+    "precio_minimo": 115.0,
+    "precio_maximo": 775.0,
+    "total_registros": 187,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Agosto",
+      "Setiembre",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Aguacate criollo unidad limón mesino",
+    "precio_actual": 115.0,
+    "precio_promedio": 115.0,
+    "precio_minimo": 115.0,
+    "precio_maximo": 115.0,
+    "total_registros": 1,
+    "ultima_fecha": "2026-08-14T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Agosto"
+    ]
+  },
+  {
+    "nombre": "Aguacate hass",
+    "precio_actual": 2700.0,
+    "precio_promedio": 2105.84,
+    "precio_minimo": 1.0,
+    "precio_maximo": 3210.0,
+    "total_registros": 158,
+    "ultima_fecha": "2024-04-12T00:00:00",
+    "tendencia_porcentaje": 3.6,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Diciembre",
+      "Noviembre",
+      "Setiembre"
+    ]
+  },
+  {
+    "nombre": "Aguacate hass kg manga pequeña",
+    "precio_actual": 655.0,
+    "precio_promedio": 700.71,
+    "precio_minimo": 655.0,
+    "precio_maximo": 745.0,
+    "total_registros": 7,
+    "ultima_fecha": "2024-05-31T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Mayo",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Aguacate hass nacional",
+    "precio_actual": 2410.0,
+    "precio_promedio": 2258.95,
+    "precio_minimo": 2.0,
+    "precio_maximo": 2800.0,
+    "total_registros": 98,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Diciembre",
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Aguacate hass nacional kg manga pequeña",
+    "precio_actual": 545.0,
+    "precio_promedio": 553.57,
+    "precio_minimo": 545.0,
+    "precio_maximo": 575.0,
+    "total_registros": 7,
+    "ultima_fecha": "2024-07-19T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Julio",
+      "Junio"
+    ]
+  },
+  {
+    "nombre": "Apio verde",
+    "precio_actual": 1385.0,
+    "precio_promedio": 1372.73,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2250.0,
+    "total_registros": 260,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -7.4,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Abril",
+      "Mayo",
+      "Marzo"
+    ]
+  },
+  {
+    "nombre": "Ayote sazón",
+    "precio_actual": 445.0,
+    "precio_promedio": 448.09,
+    "precio_minimo": 325.0,
+    "precio_maximo": 900.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Junio",
+      "Mayo",
+      "Noviembre"
+    ]
+  },
+  {
+    "nombre": "Ayote tierno",
+    "precio_actual": 500.0,
+    "precio_promedio": 504.44,
+    "precio_minimo": 325.0,
+    "precio_maximo": 1025.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Junio"
+    ]
+  },
+  {
+    "nombre": "Banano criollo",
+    "precio_actual": 40.0,
+    "precio_promedio": 40.61,
+    "precio_minimo": 38.0,
+    "precio_maximo": 45.0,
+    "total_registros": 261,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Julio",
+      "Mayo",
+      "Agosto"
+    ]
+  },
+  {
+    "nombre": "Brócoli",
+    "precio_actual": 2295.0,
+    "precio_promedio": 1401.28,
+    "precio_minimo": 1.0,
+    "precio_maximo": 3940.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -1.7,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Mayo",
+      "Abril",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Camote",
+    "precio_actual": 1460.0,
+    "precio_promedio": 846.89,
+    "precio_minimo": 1.0,
+    "precio_maximo": 1600.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Junio",
+      "Mayo",
+      "Julio"
+    ]
+  },
+  {
+    "nombre": "Cebolla seca",
+    "precio_actual": 910.0,
+    "precio_promedio": 975.01,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2315.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -9.0,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Noviembre"
+    ]
+  },
+  {
+    "nombre": "Cebolla trenza",
+    "precio_actual": 910.0,
+    "precio_promedio": 972.8,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2350.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -9.0,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Noviembre"
+    ]
+  },
+  {
+    "nombre": "Chayote sazón blanco",
+    "precio_actual": 645.0,
+    "precio_promedio": 474.39,
+    "precio_minimo": 265.0,
+    "precio_maximo": 645.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 4.0,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Enero",
+      "Diciembre",
+      "Febrero"
+    ]
+  },
+  {
+    "nombre": "Chayote tierno criollo",
+    "precio_actual": 760.0,
+    "precio_promedio": 412.32,
+    "precio_minimo": 145.0,
+    "precio_maximo": 760.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 7.8,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Diciembre",
+      "Enero",
+      "Noviembre"
+    ]
+  },
+  {
+    "nombre": "Chayote tierno quelite",
+    "precio_actual": 195.0,
+    "precio_promedio": 118.7,
+    "precio_minimo": 65.0,
+    "precio_maximo": 265.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -4.9,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Diciembre",
+      "Noviembre",
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Chile dulce primera",
+    "precio_actual": 195.0,
+    "precio_promedio": 269.78,
+    "precio_minimo": 95.0,
+    "precio_maximo": 620.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -15.2,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Junio",
+      "Mayo",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Coco",
+    "precio_actual": 605.0,
+    "precio_promedio": 507.31,
+    "precio_minimo": 350.0,
+    "precio_maximo": 670.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 2.5,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Febrero",
+      "Setiembre",
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Coliflor",
+    "precio_actual": 1350.0,
+    "precio_promedio": 967.13,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2200.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 12.0,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Culantro castilla",
+    "precio_actual": 135.0,
+    "precio_promedio": 144.82,
+    "precio_minimo": 75.0,
+    "precio_maximo": 355.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "temporada_baja",
+    "meses_baratos": [
+      "Enero",
+      "Febrero",
+      "Agosto"
+    ]
+  },
+  {
+    "nombre": "Elote",
+    "precio_actual": 175.0,
+    "precio_promedio": 159.4,
+    "precio_minimo": 110.0,
+    "precio_maximo": 245.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -2.8,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Mayo",
+      "Octubre",
+      "Diciembre"
+    ]
+  },
+  {
+    "nombre": "Fresa",
+    "precio_actual": 2765.0,
+    "precio_promedio": 2744.81,
+    "precio_minimo": 3.0,
+    "precio_maximo": 4280.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 2.4,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Setiembre",
+      "Febrero",
+      "Agosto"
+    ]
+  },
+  {
+    "nombre": "Frijol tierno",
+    "precio_actual": 1850.0,
+    "precio_promedio": 1771.7,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2100.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Diciembre",
+      "Febrero",
+      "Marzo"
+    ]
+  },
+  {
+    "nombre": "Huevos",
+    "precio_actual": 1325.0,
+    "precio_promedio": 1687.75,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2600.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 12.8,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Julio",
+      "Junio",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Jocote tronador",
+    "precio_actual": 1230.0,
+    "precio_promedio": 1265.91,
+    "precio_minimo": 910.0,
+    "precio_maximo": 1630.0,
+    "total_registros": 11,
+    "ultima_fecha": "2021-10-15T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Setiembre",
+      "Octubre",
+      "Agosto"
+    ]
+  },
+  {
+    "nombre": "Lechuga americana",
+    "precio_actual": 295.0,
+    "precio_promedio": 276.77,
+    "precio_minimo": 215.0,
+    "precio_maximo": 495.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Mayo",
+      "Setiembre",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Limón mandarino",
+    "precio_actual": 95.0,
+    "precio_promedio": 96.4,
+    "precio_minimo": 45.0,
+    "precio_maximo": 200.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -5.0,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_baja",
+    "meses_baratos": [
+      "Noviembre",
+      "Diciembre",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Limón mesino",
+    "precio_actual": 110.0,
+    "precio_promedio": 136.65,
+    "precio_minimo": 55.0,
+    "precio_maximo": 285.0,
+    "total_registros": 237,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -4.3,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_baja",
+    "meses_baratos": [
+      "Setiembre",
+      "Agosto",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Manga grande",
+    "precio_actual": 1015.0,
+    "precio_promedio": 1053.44,
+    "precio_minimo": 475.0,
+    "precio_maximo": 2040.0,
+    "total_registros": 90,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 15.3,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Manga pequeña",
+    "precio_actual": 1765.0,
+    "precio_promedio": 967.95,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2405.0,
+    "total_registros": 155,
+    "ultima_fecha": "2024-09-27T00:00:00",
+    "tendencia_porcentaje": 10.7,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "temporada_baja",
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Manga pequeña kg apio verde",
+    "precio_actual": 1175.0,
+    "precio_promedio": 1219.55,
+    "precio_minimo": 1085.0,
+    "precio_maximo": 1350.0,
+    "total_registros": 11,
+    "ultima_fecha": "2021-12-10T00:00:00",
+    "tendencia_porcentaje": 3.5,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Setiembre",
+      "Diciembre",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Manga pequeña kg nd apio verde",
+    "precio_actual": 1265.0,
+    "precio_promedio": 1190.0,
+    "precio_minimo": 1115.0,
+    "precio_maximo": 1265.0,
+    "total_registros": 2,
+    "ultima_fecha": "2021-10-01T00:00:00",
+    "tendencia_porcentaje": 13.5,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Setiembre",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Maracuyá",
+    "precio_actual": 1220.0,
+    "precio_promedio": 1163.11,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2250.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.4,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Diciembre",
+      "Junio",
+      "Setiembre"
+    ]
+  },
+  {
+    "nombre": "Melón cantaloupe",
+    "precio_actual": 850.0,
+    "precio_promedio": 865.57,
+    "precio_minimo": 9.0,
+    "precio_maximo": 1700.0,
+    "total_registros": 246,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Abril",
+      "Febrero",
+      "Marzo"
+    ]
+  },
+  {
+    "nombre": "Melón cantaloupe kg banano criollo",
+    "precio_actual": 40.0,
+    "precio_promedio": 41.15,
+    "precio_minimo": 40.0,
+    "precio_maximo": 45.0,
+    "total_registros": 13,
+    "ultima_fecha": "2026-07-24T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Julio",
+      "Setiembre",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Melón cantaloupe kg n.d banano criollo",
+    "precio_actual": 40.0,
+    "precio_promedio": 40.0,
+    "precio_minimo": 40.0,
+    "precio_maximo": 40.0,
+    "total_registros": 1,
+    "ultima_fecha": "2024-10-18T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Mora",
+    "precio_actual": 2500.0,
+    "precio_promedio": 2261.54,
+    "precio_minimo": 2.0,
+    "precio_maximo": 2955.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Diciembre",
+      "Marzo",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Naranja",
+    "precio_actual": 140.0,
+    "precio_promedio": 110.98,
+    "precio_minimo": 1.0,
+    "precio_maximo": 155.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Diciembre",
+      "Febrero",
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Papa amarilla",
+    "precio_actual": 570.0,
+    "precio_promedio": 958.67,
+    "precio_minimo": 4.0,
+    "precio_maximo": 3230.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -2.6,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_baja",
+    "meses_baratos": [
+      "Agosto",
+      "Julio",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Papa blanca",
+    "precio_actual": 570.0,
+    "precio_promedio": 929.31,
+    "precio_minimo": 4.0,
+    "precio_maximo": 3230.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -2.6,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_baja",
+    "meses_baratos": [
+      "Agosto",
+      "Julio",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Papaya",
+    "precio_actual": 720.0,
+    "precio_promedio": 547.15,
+    "precio_minimo": 4.0,
+    "precio_maximo": 1400.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -4.6,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Marzo",
+      "Junio",
+      "Abril"
+    ]
+  },
+  {
+    "nombre": "Pepino",
+    "precio_actual": 595.0,
+    "precio_promedio": 474.94,
+    "precio_minimo": 4.0,
+    "precio_maximo": 945.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 14.4,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Setiembre",
+      "Octubre",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Piña grande",
+    "precio_actual": 1355.0,
+    "precio_promedio": 1083.71,
+    "precio_minimo": 1.0,
+    "precio_maximo": 1530.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Diciembre",
+      "Febrero",
+      "Noviembre"
+    ]
+  },
+  {
+    "nombre": "Platano",
+    "precio_actual": 245.0,
+    "precio_promedio": 262.08,
+    "precio_minimo": 240.0,
+    "precio_maximo": 280.0,
+    "total_registros": 12,
+    "ultima_fecha": "2023-01-13T00:00:00",
+    "tendencia_porcentaje": -3.9,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Enero",
+      "Noviembre"
+    ]
+  },
+  {
+    "nombre": "Plátano",
+    "precio_actual": 205.0,
+    "precio_promedio": 206.56,
+    "precio_minimo": 1.0,
+    "precio_maximo": 295.0,
+    "total_registros": 261,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -10.9,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Junio",
+      "Julio",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo",
+    "precio_actual": 550.0,
+    "precio_promedio": 462.35,
+    "precio_minimo": 345.0,
+    "precio_maximo": 645.0,
+    "total_registros": 49,
+    "ultima_fecha": "2022-10-14T00:00:00",
+    "tendencia_porcentaje": 18.3,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Abril",
+      "Agosto",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo unidad --- limón mesino",
+    "precio_actual": 200.0,
+    "precio_promedio": 200.0,
+    "precio_minimo": 200.0,
+    "precio_maximo": 200.0,
+    "total_registros": 1,
+    "ultima_fecha": "2021-01-29T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo unidad limón mesino",
+    "precio_actual": 245.0,
+    "precio_promedio": 180.15,
+    "precio_minimo": 75.0,
+    "precio_maximo": 255.0,
+    "total_registros": 33,
+    "ultima_fecha": "2022-03-04T00:00:00",
+    "tendencia_porcentaje": 2.1,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Noviembre",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Precio precio producto unidad medida producto unidad medida colones colones aguacate hass",
+    "precio_actual": 2405.0,
+    "precio_promedio": 2405.0,
+    "precio_minimo": 2405.0,
+    "precio_maximo": 2405.0,
+    "total_registros": 1,
+    "ultima_fecha": "2021-03-19T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Marzo"
+    ]
+  },
+  {
+    "nombre": "Producto unidad medidparecio colones producto unidad medidparecio colones aguacate criollo",
+    "precio_actual": 425.0,
+    "precio_promedio": 425.0,
+    "precio_minimo": 425.0,
+    "precio_maximo": 425.0,
+    "total_registros": 1,
+    "ultima_fecha": "2022-07-01T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Julio"
+    ]
+  },
+  {
+    "nombre": "Remolacha",
+    "precio_actual": 320.0,
+    "precio_promedio": 325.18,
+    "precio_minimo": 3.0,
+    "precio_maximo": 650.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Junio",
+      "Julio",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Repollo verde",
+    "precio_actual": 900.0,
+    "precio_promedio": 556.97,
+    "precio_minimo": 3.0,
+    "precio_maximo": 1775.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -5.3,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ]
+  },
+  {
+    "nombre": "Sandía",
+    "precio_actual": 675.0,
+    "precio_promedio": 607.35,
+    "precio_minimo": 7.0,
+    "precio_maximo": 1550.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Marzo",
+      "Febrero",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Tiquisque",
+    "precio_actual": 2900.0,
+    "precio_promedio": 1542.33,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2900.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Febrero",
+      "Marzo",
+      "Octubre"
+    ]
+  },
+  {
+    "nombre": "Tomate primera",
+    "precio_actual": 960.0,
+    "precio_promedio": 1046.72,
+    "precio_minimo": 2.0,
+    "precio_maximo": 3180.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 27.2,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Setiembre",
+      "Mayo",
+      "Marzo"
+    ]
+  },
+  {
+    "nombre": "Unidad precio unidad precio producto producto medida colones medida colones aguacate criollo unidad --- limón mesino",
+    "precio_actual": 190.0,
+    "precio_promedio": 190.0,
+    "precio_minimo": 190.0,
+    "precio_maximo": 190.0,
+    "total_registros": 1,
+    "ultima_fecha": "2021-01-08T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Vainica",
+    "precio_actual": 1335.0,
+    "precio_promedio": 1111.15,
+    "precio_minimo": 1.0,
+    "precio_maximo": 3015.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 7.2,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Julio",
+      "Octubre",
+      "Mayo"
+    ]
+  },
+  {
+    "nombre": "Yuca corriente",
+    "precio_actual": 450.0,
+    "precio_promedio": 443.9,
+    "precio_minimo": 3.0,
+    "precio_maximo": 765.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 2.3,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Febrero",
+      "Enero",
+      "Diciembre"
+    ]
+  },
+  {
+    "nombre": "Yuca parafinada",
+    "precio_actual": 500.0,
+    "precio_promedio": 511.57,
+    "precio_minimo": 4.0,
+    "precio_maximo": 935.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 17.6,
+    "tendencia_tipo": "subida",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Febrero",
+      "Diciembre",
+      "Enero"
+    ]
+  },
+  {
+    "nombre": "Zanahoria",
+    "precio_actual": 570.0,
+    "precio_promedio": 478.57,
+    "precio_minimo": 3.0,
+    "precio_maximo": 1220.0,
+    "total_registros": 272,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": -1.7,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Junio"
+    ]
+  },
+  {
+    "nombre": "Zapallo",
+    "precio_actual": 500.0,
+    "precio_promedio": 482.11,
+    "precio_minimo": 4.0,
+    "precio_maximo": 935.0,
+    "total_registros": 273,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 0.0,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Octubre",
+      "Mayo",
+      "Julio"
+    ]
+  },
+  {
+    "nombre": "Ñampi",
+    "precio_actual": 1850.0,
+    "precio_promedio": 1154.12,
+    "precio_minimo": 650.0,
+    "precio_maximo": 2275.0,
+    "total_registros": 85,
+    "ultima_fecha": "2022-10-14T00:00:00",
+    "tendencia_porcentaje": -2.9,
+    "tendencia_tipo": "bajada",
+    "estado_temporada": "temporada_alta",
+    "meses_baratos": [
+      "Noviembre",
+      "Diciembre",
+      "Febrero"
+    ]
+  },
+  {
+    "nombre": "Ñampí",
+    "precio_actual": 1230.0,
+    "precio_promedio": 1275.04,
+    "precio_minimo": 1.0,
+    "precio_maximo": 2085.0,
+    "total_registros": 186,
+    "ultima_fecha": "2026-08-28T00:00:00",
+    "tendencia_porcentaje": 1.2,
+    "tendencia_tipo": "estable",
+    "estado_temporada": "normal",
+    "meses_baratos": [
+      "Diciembre",
+      "Setiembre",
+      "Enero"
+    ]
+  }
+]

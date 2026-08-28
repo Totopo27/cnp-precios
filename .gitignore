@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuales y variables de entorno
+.env
+venv/
+.venv/
+
+# Archivos temporales de ingesta y descargas
+data_raw/
+data/descargas_cnp/
+logs/
+*.xlsx
+*.pdf

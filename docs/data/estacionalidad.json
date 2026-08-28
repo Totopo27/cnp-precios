@@ -1,0 +1,1627 @@
+{
+  "Aguacate criollo": {
+    "promedios_mensuales": {
+      "Enero": 541.54,
+      "Febrero": 546.67,
+      "Marzo": 508.82,
+      "Abril": 623.57,
+      "Mayo": 555.79,
+      "Junio": 522.65,
+      "Julio": 495.0,
+      "Agosto": 485.56,
+      "Setiembre": 486.54,
+      "Octubre": 487.5,
+      "Noviembre": 519.41,
+      "Diciembre": 554.29
+    },
+    "meses_baratos": [
+      "Agosto",
+      "Setiembre",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Abril",
+      "Mayo",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 7.9
+  },
+  "Aguacate criollo unidad limón mesino": {
+    "promedios_mensuales": {
+      "Agosto": 115.0
+    },
+    "meses_baratos": [
+      "Agosto"
+    ],
+    "meses_caros": [
+      "Agosto"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Aguacate hass": {
+    "promedios_mensuales": {
+      "Enero": 2083.08,
+      "Febrero": 2160.31,
+      "Marzo": 2252.19,
+      "Abril": 2571.25,
+      "Mayo": 2659.58,
+      "Junio": 2155.77,
+      "Julio": 2037.86,
+      "Agosto": 1913.33,
+      "Setiembre": 1888.93,
+      "Octubre": 2000.42,
+      "Noviembre": 1888.75,
+      "Diciembre": 1636.83
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Noviembre",
+      "Setiembre"
+    ],
+    "meses_caros": [
+      "Mayo",
+      "Abril",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 9.1
+  },
+  "Aguacate hass kg manga pequeña": {
+    "promedios_mensuales": {
+      "Abril": 745.0,
+      "Mayo": 683.0
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Abril",
+      "Mayo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Aguacate hass nacional": {
+    "promedios_mensuales": {
+      "Enero": 2075.0,
+      "Febrero": 2233.75,
+      "Marzo": 2421.88,
+      "Abril": 2453.57,
+      "Mayo": 2485.0,
+      "Junio": 2543.75,
+      "Julio": 2436.5,
+      "Agosto": 2230.71,
+      "Setiembre": 2098.12,
+      "Octubre": 1817.44,
+      "Noviembre": 2131.11,
+      "Diciembre": 2066.67
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Diciembre",
+      "Enero"
+    ],
+    "meses_caros": [
+      "Junio",
+      "Mayo",
+      "Abril"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.8
+  },
+  "Aguacate hass nacional kg manga pequeña": {
+    "promedios_mensuales": {
+      "Junio": 560.0,
+      "Julio": 545.0
+    },
+    "meses_baratos": [
+      "Julio",
+      "Junio"
+    ],
+    "meses_caros": [
+      "Junio",
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Apio verde": {
+    "promedios_mensuales": {
+      "Enero": 1452.11,
+      "Febrero": 1307.0,
+      "Marzo": 1225.0,
+      "Abril": 1180.48,
+      "Mayo": 1224.63,
+      "Junio": 1288.0,
+      "Julio": 1470.56,
+      "Agosto": 1551.35,
+      "Setiembre": 1440.0,
+      "Octubre": 1345.65,
+      "Noviembre": 1583.82,
+      "Diciembre": 1491.19
+    },
+    "meses_baratos": [
+      "Abril",
+      "Mayo",
+      "Marzo"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Agosto",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Ayote sazón": {
+    "promedios_mensuales": {
+      "Enero": 445.0,
+      "Febrero": 490.25,
+      "Marzo": 464.6,
+      "Abril": 453.57,
+      "Mayo": 426.85,
+      "Junio": 417.4,
+      "Julio": 455.37,
+      "Agosto": 459.04,
+      "Setiembre": 463.18,
+      "Octubre": 441.14,
+      "Noviembre": 431.19,
+      "Diciembre": 432.5
+    },
+    "meses_baratos": [
+      "Junio",
+      "Mayo",
+      "Noviembre"
+    ],
+    "meses_caros": [
+      "Febrero",
+      "Marzo",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Ayote tierno": {
+    "promedios_mensuales": {
+      "Enero": 630.63,
+      "Febrero": 604.25,
+      "Marzo": 544.0,
+      "Abril": 489.05,
+      "Mayo": 465.93,
+      "Junio": 461.8,
+      "Julio": 463.15,
+      "Agosto": 483.08,
+      "Setiembre": 445.0,
+      "Octubre": 430.45,
+      "Noviembre": 525.0,
+      "Diciembre": 572.22
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Junio"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 5.2
+  },
+  "Banano criollo": {
+    "promedios_mensuales": {
+      "Enero": 40.95,
+      "Febrero": 41.0,
+      "Marzo": 41.0,
+      "Abril": 41.19,
+      "Mayo": 40.19,
+      "Junio": 40.2,
+      "Julio": 40.0,
+      "Agosto": 40.19,
+      "Setiembre": 41.05,
+      "Octubre": 40.33,
+      "Noviembre": 40.26,
+      "Diciembre": 41.39
+    },
+    "meses_baratos": [
+      "Julio",
+      "Mayo",
+      "Agosto"
+    ],
+    "meses_caros": [
+      "Diciembre",
+      "Abril",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 1.1
+  },
+  "Brócoli": {
+    "promedios_mensuales": {
+      "Enero": 1873.33,
+      "Febrero": 1826.5,
+      "Marzo": 1326.0,
+      "Abril": 965.48,
+      "Mayo": 845.0,
+      "Junio": 1435.6,
+      "Julio": 1864.26,
+      "Agosto": 1642.88,
+      "Setiembre": 1302.95,
+      "Octubre": 1015.27,
+      "Noviembre": 1252.86,
+      "Diciembre": 1578.17
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Abril",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Julio",
+      "Febrero"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Camote": {
+    "promedios_mensuales": {
+      "Enero": 1051.39,
+      "Febrero": 892.5,
+      "Marzo": 826.6,
+      "Abril": 761.9,
+      "Mayo": 689.26,
+      "Junio": 676.6,
+      "Julio": 760.0,
+      "Agosto": 922.88,
+      "Setiembre": 872.05,
+      "Octubre": 859.82,
+      "Noviembre": 1036.19,
+      "Diciembre": 945.11
+    },
+    "meses_baratos": [
+      "Junio",
+      "Mayo",
+      "Julio"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Noviembre",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Cebolla seca": {
+    "promedios_mensuales": {
+      "Enero": 1348.06,
+      "Febrero": 1220.75,
+      "Marzo": 1011.4,
+      "Abril": 899.52,
+      "Mayo": 875.37,
+      "Junio": 1001.6,
+      "Julio": 1103.33,
+      "Agosto": 1047.12,
+      "Setiembre": 761.36,
+      "Octubre": 713.64,
+      "Noviembre": 805.95,
+      "Diciembre": 960.11
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Noviembre"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Cebolla trenza": {
+    "promedios_mensuales": {
+      "Enero": 1354.44,
+      "Febrero": 1210.75,
+      "Marzo": 999.0,
+      "Abril": 903.1,
+      "Mayo": 876.67,
+      "Junio": 993.6,
+      "Julio": 1103.52,
+      "Agosto": 1045.77,
+      "Setiembre": 759.77,
+      "Octubre": 713.64,
+      "Noviembre": 805.48,
+      "Diciembre": 957.89
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Noviembre"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Chayote sazón blanco": {
+    "promedios_mensuales": {
+      "Enero": 434.95,
+      "Febrero": 456.25,
+      "Marzo": 497.4,
+      "Abril": 472.62,
+      "Mayo": 471.11,
+      "Junio": 467.0,
+      "Julio": 490.0,
+      "Agosto": 504.23,
+      "Setiembre": 505.68,
+      "Octubre": 456.9,
+      "Noviembre": 476.19,
+      "Diciembre": 435.0
+    },
+    "meses_baratos": [
+      "Enero",
+      "Diciembre",
+      "Febrero"
+    ],
+    "meses_caros": [
+      "Setiembre",
+      "Agosto",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Chayote tierno criollo": {
+    "promedios_mensuales": {
+      "Enero": 353.11,
+      "Febrero": 389.25,
+      "Marzo": 423.6,
+      "Abril": 376.19,
+      "Mayo": 408.89,
+      "Junio": 451.4,
+      "Julio": 464.26,
+      "Agosto": 508.65,
+      "Setiembre": 435.91,
+      "Octubre": 372.5,
+      "Noviembre": 358.57,
+      "Diciembre": 343.33
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Enero",
+      "Noviembre"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Julio",
+      "Junio"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Chayote tierno quelite": {
+    "promedios_mensuales": {
+      "Enero": 103.11,
+      "Febrero": 127.75,
+      "Marzo": 131.6,
+      "Abril": 106.9,
+      "Mayo": 106.85,
+      "Junio": 125.2,
+      "Julio": 124.81,
+      "Agosto": 154.23,
+      "Setiembre": 132.73,
+      "Octubre": 111.59,
+      "Noviembre": 94.05,
+      "Diciembre": 89.44
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Noviembre",
+      "Enero"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Setiembre",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Chile dulce primera": {
+    "promedios_mensuales": {
+      "Enero": 332.11,
+      "Febrero": 305.75,
+      "Marzo": 256.4,
+      "Abril": 278.1,
+      "Mayo": 224.07,
+      "Junio": 214.4,
+      "Julio": 291.85,
+      "Agosto": 273.65,
+      "Setiembre": 254.55,
+      "Octubre": 225.68,
+      "Noviembre": 268.81,
+      "Diciembre": 353.33
+    },
+    "meses_baratos": [
+      "Junio",
+      "Mayo",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Diciembre",
+      "Enero",
+      "Febrero"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Coco": {
+    "promedios_mensuales": {
+      "Enero": 490.79,
+      "Febrero": 480.25,
+      "Marzo": 517.4,
+      "Abril": 521.19,
+      "Mayo": 523.33,
+      "Junio": 513.2,
+      "Julio": 507.41,
+      "Agosto": 505.96,
+      "Setiembre": 488.41,
+      "Octubre": 509.55,
+      "Noviembre": 515.95,
+      "Diciembre": 504.44
+    },
+    "meses_baratos": [
+      "Febrero",
+      "Setiembre",
+      "Enero"
+    ],
+    "meses_caros": [
+      "Mayo",
+      "Abril",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.1
+  },
+  "Coliflor": {
+    "promedios_mensuales": {
+      "Enero": 1073.95,
+      "Febrero": 1114.75,
+      "Marzo": 1091.2,
+      "Abril": 780.71,
+      "Mayo": 696.67,
+      "Junio": 753.8,
+      "Julio": 1145.19,
+      "Agosto": 1205.38,
+      "Setiembre": 1021.36,
+      "Octubre": 862.95,
+      "Noviembre": 883.33,
+      "Diciembre": 985.11
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Julio",
+      "Febrero"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Culantro castilla": {
+    "promedios_mensuales": {
+      "Enero": 111.32,
+      "Febrero": 117.25,
+      "Marzo": 141.0,
+      "Abril": 140.95,
+      "Mayo": 140.37,
+      "Junio": 146.2,
+      "Julio": 152.59,
+      "Agosto": 118.85,
+      "Setiembre": 125.68,
+      "Octubre": 171.82,
+      "Noviembre": 194.29,
+      "Diciembre": 183.89
+    },
+    "meses_baratos": [
+      "Enero",
+      "Febrero",
+      "Agosto"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Diciembre",
+      "Octubre"
+    ],
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 18.2
+  },
+  "Elote": {
+    "promedios_mensuales": {
+      "Enero": 173.79,
+      "Febrero": 165.75,
+      "Marzo": 163.6,
+      "Abril": 151.43,
+      "Mayo": 144.07,
+      "Junio": 161.8,
+      "Julio": 159.07,
+      "Agosto": 167.69,
+      "Setiembre": 172.05,
+      "Octubre": 150.0,
+      "Noviembre": 154.76,
+      "Diciembre": 150.28
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Octubre",
+      "Diciembre"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Setiembre",
+      "Agosto"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Fresa": {
+    "promedios_mensuales": {
+      "Enero": 2794.44,
+      "Febrero": 2582.25,
+      "Marzo": 2682.8,
+      "Abril": 2673.1,
+      "Mayo": 2676.3,
+      "Junio": 2738.2,
+      "Julio": 2801.85,
+      "Agosto": 2635.96,
+      "Setiembre": 2398.41,
+      "Octubre": 2740.82,
+      "Noviembre": 3385.71,
+      "Diciembre": 2909.78
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Febrero",
+      "Agosto"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Diciembre",
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 4.2
+  },
+  "Frijol tierno": {
+    "promedios_mensuales": {
+      "Enero": 1786.11,
+      "Febrero": 1696.5,
+      "Marzo": 1730.8,
+      "Abril": 1753.81,
+      "Mayo": 1755.19,
+      "Junio": 1756.8,
+      "Julio": 1817.22,
+      "Agosto": 1855.96,
+      "Setiembre": 1863.64,
+      "Octubre": 1759.14,
+      "Noviembre": 1832.86,
+      "Diciembre": 1605.67
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Febrero",
+      "Marzo"
+    ],
+    "meses_caros": [
+      "Setiembre",
+      "Agosto",
+      "Noviembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Huevos": {
+    "promedios_mensuales": {
+      "Enero": 1867.78,
+      "Febrero": 1701.25,
+      "Marzo": 1707.0,
+      "Abril": 1571.67,
+      "Mayo": 1613.89,
+      "Junio": 1561.4,
+      "Julio": 1550.19,
+      "Agosto": 1651.92,
+      "Setiembre": 1817.73,
+      "Octubre": 1715.05,
+      "Noviembre": 1886.43,
+      "Diciembre": 1721.78
+    },
+    "meses_baratos": [
+      "Julio",
+      "Junio",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Enero",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 2.7
+  },
+  "Jocote tronador": {
+    "promedios_mensuales": {
+      "Agosto": 1507.5,
+      "Setiembre": 1121.25,
+      "Octubre": 1136.67
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Octubre",
+      "Agosto"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Octubre",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Lechuga americana": {
+    "promedios_mensuales": {
+      "Enero": 275.63,
+      "Febrero": 269.75,
+      "Marzo": 264.8,
+      "Abril": 264.52,
+      "Mayo": 255.37,
+      "Junio": 275.8,
+      "Julio": 308.52,
+      "Agosto": 285.38,
+      "Setiembre": 262.95,
+      "Octubre": 265.23,
+      "Noviembre": 282.62,
+      "Diciembre": 314.17
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Setiembre",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Diciembre",
+      "Julio",
+      "Agosto"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Limón mandarino": {
+    "promedios_mensuales": {
+      "Enero": 73.26,
+      "Febrero": 94.0,
+      "Marzo": 147.0,
+      "Abril": 160.71,
+      "Mayo": 138.89,
+      "Junio": 103.8,
+      "Julio": 86.3,
+      "Agosto": 81.15,
+      "Setiembre": 67.27,
+      "Octubre": 65.0,
+      "Noviembre": 57.38,
+      "Diciembre": 60.83
+    },
+    "meses_baratos": [
+      "Noviembre",
+      "Diciembre",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Abril",
+      "Marzo",
+      "Mayo"
+    ],
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 14.2
+  },
+  "Limón mesino": {
+    "promedios_mensuales": {
+      "Enero": 184.23,
+      "Febrero": 201.67,
+      "Marzo": 223.81,
+      "Abril": 210.29,
+      "Mayo": 171.0,
+      "Junio": 119.0,
+      "Julio": 95.56,
+      "Agosto": 88.4,
+      "Setiembre": 72.5,
+      "Octubre": 88.68,
+      "Noviembre": 113.53,
+      "Diciembre": 146.07
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Agosto",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Marzo",
+      "Abril",
+      "Febrero"
+    ],
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 38.1
+  },
+  "Manga grande": {
+    "promedios_mensuales": {
+      "Enero": 1418.33,
+      "Febrero": 1821.25,
+      "Marzo": 992.5,
+      "Abril": 584.29,
+      "Mayo": 534.0,
+      "Junio": 541.25,
+      "Julio": 611.67,
+      "Agosto": 1093.89,
+      "Setiembre": 1700.0,
+      "Octubre": 1484.0,
+      "Noviembre": 1303.89,
+      "Diciembre": 1431.67
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Febrero",
+      "Setiembre",
+      "Octubre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 2.9
+  },
+  "Manga pequeña": {
+    "promedios_mensuales": {
+      "Enero": 1367.5,
+      "Febrero": 1179.06,
+      "Marzo": 778.24,
+      "Abril": 476.67,
+      "Mayo": 350.83,
+      "Junio": 455.0,
+      "Julio": 530.33,
+      "Agosto": 886.18,
+      "Setiembre": 1581.56,
+      "Octubre": 1815.71,
+      "Noviembre": 1586.88,
+      "Diciembre": 1195.2
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Octubre",
+      "Noviembre",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 12.9
+  },
+  "Manga pequeña kg apio verde": {
+    "promedios_mensuales": {
+      "Setiembre": 1085.0,
+      "Octubre": 1227.5,
+      "Noviembre": 1277.5,
+      "Diciembre": 1155.0
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Diciembre",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Octubre",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Manga pequeña kg nd apio verde": {
+    "promedios_mensuales": {
+      "Setiembre": 1115.0,
+      "Octubre": 1265.0
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Octubre",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Maracuyá": {
+    "promedios_mensuales": {
+      "Enero": 1312.78,
+      "Febrero": 1356.75,
+      "Marzo": 1238.8,
+      "Abril": 1152.86,
+      "Mayo": 1111.85,
+      "Junio": 1090.2,
+      "Julio": 1205.0,
+      "Agosto": 1145.19,
+      "Setiembre": 1102.05,
+      "Octubre": 1106.14,
+      "Noviembre": 1124.29,
+      "Diciembre": 1035.94
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Junio",
+      "Setiembre"
+    ],
+    "meses_caros": [
+      "Febrero",
+      "Enero",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 1.7
+  },
+  "Melón cantaloupe": {
+    "promedios_mensuales": {
+      "Enero": 875.59,
+      "Febrero": 692.81,
+      "Marzo": 695.71,
+      "Abril": 664.47,
+      "Mayo": 725.74,
+      "Junio": 838.8,
+      "Julio": 867.2,
+      "Agosto": 892.69,
+      "Setiembre": 973.68,
+      "Octubre": 1187.5,
+      "Noviembre": 1119.74,
+      "Diciembre": 992.72
+    },
+    "meses_baratos": [
+      "Abril",
+      "Febrero",
+      "Marzo"
+    ],
+    "meses_caros": [
+      "Octubre",
+      "Noviembre",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Melón cantaloupe kg banano criollo": {
+    "promedios_mensuales": {
+      "Julio": 40.0,
+      "Setiembre": 40.0,
+      "Octubre": 41.67,
+      "Noviembre": 42.5
+    },
+    "meses_baratos": [
+      "Julio",
+      "Setiembre",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Octubre",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Melón cantaloupe kg n.d banano criollo": {
+    "promedios_mensuales": {
+      "Octubre": 40.0
+    },
+    "meses_baratos": [
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Octubre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Mora": {
+    "promedios_mensuales": {
+      "Enero": 2212.22,
+      "Febrero": 2161.0,
+      "Marzo": 2134.8,
+      "Abril": 2146.9,
+      "Mayo": 2210.19,
+      "Junio": 2260.0,
+      "Julio": 2352.78,
+      "Agosto": 2442.5,
+      "Setiembre": 2413.41,
+      "Octubre": 2334.09,
+      "Noviembre": 2347.38,
+      "Diciembre": 2038.83
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Marzo",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Setiembre",
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Naranja": {
+    "promedios_mensuales": {
+      "Enero": 106.05,
+      "Febrero": 104.75,
+      "Marzo": 109.0,
+      "Abril": 111.67,
+      "Mayo": 111.3,
+      "Junio": 108.0,
+      "Julio": 112.59,
+      "Agosto": 119.81,
+      "Setiembre": 115.0,
+      "Octubre": 109.82,
+      "Noviembre": 117.14,
+      "Diciembre": 102.83
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Febrero",
+      "Enero"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Noviembre",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Papaya": {
+    "promedios_mensuales": {
+      "Enero": 768.61,
+      "Febrero": 566.75,
+      "Marzo": 470.8,
+      "Abril": 476.43,
+      "Mayo": 529.44,
+      "Junio": 475.4,
+      "Julio": 485.74,
+      "Agosto": 572.69,
+      "Setiembre": 508.64,
+      "Octubre": 490.23,
+      "Noviembre": 591.43,
+      "Diciembre": 738.83
+    },
+    "meses_baratos": [
+      "Marzo",
+      "Junio",
+      "Abril"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Diciembre",
+      "Noviembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Papa amarilla": {
+    "promedios_mensuales": {
+      "Enero": 1372.78,
+      "Febrero": 1327.75,
+      "Marzo": 1024.4,
+      "Abril": 970.71,
+      "Mayo": 867.04,
+      "Junio": 870.0,
+      "Julio": 841.85,
+      "Agosto": 798.46,
+      "Setiembre": 866.14,
+      "Octubre": 851.32,
+      "Noviembre": 944.76,
+      "Diciembre": 956.89
+    },
+    "meses_baratos": [
+      "Agosto",
+      "Julio",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 18.1
+  },
+  "Papa blanca": {
+    "promedios_mensuales": {
+      "Enero": 1355.56,
+      "Febrero": 1269.5,
+      "Marzo": 977.4,
+      "Abril": 914.52,
+      "Mayo": 813.89,
+      "Junio": 817.2,
+      "Julio": 801.85,
+      "Agosto": 781.15,
+      "Setiembre": 861.59,
+      "Octubre": 854.73,
+      "Noviembre": 953.81,
+      "Diciembre": 954.94
+    },
+    "meses_baratos": [
+      "Agosto",
+      "Julio",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 17.5
+  },
+  "Pepino": {
+    "promedios_mensuales": {
+      "Enero": 512.78,
+      "Febrero": 504.25,
+      "Marzo": 558.6,
+      "Abril": 458.33,
+      "Mayo": 454.81,
+      "Junio": 474.8,
+      "Julio": 457.96,
+      "Agosto": 458.27,
+      "Setiembre": 408.18,
+      "Octubre": 412.0,
+      "Noviembre": 552.38,
+      "Diciembre": 455.78
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Octubre",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Marzo",
+      "Noviembre",
+      "Enero"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 3.7
+  },
+  "Piña grande": {
+    "promedios_mensuales": {
+      "Enero": 1089.74,
+      "Febrero": 1028.0,
+      "Marzo": 1075.4,
+      "Abril": 1062.86,
+      "Mayo": 1052.22,
+      "Junio": 1084.4,
+      "Julio": 1147.41,
+      "Agosto": 1212.69,
+      "Setiembre": 1091.36,
+      "Octubre": 1068.86,
+      "Noviembre": 1048.81,
+      "Diciembre": 989.0
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Febrero",
+      "Noviembre"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Julio",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Platano": {
+    "promedios_mensuales": {
+      "Enero": 250.0,
+      "Octubre": 242.5,
+      "Noviembre": 261.25,
+      "Diciembre": 278.75
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Enero",
+      "Noviembre"
+    ],
+    "meses_caros": [
+      "Diciembre",
+      "Noviembre",
+      "Enero"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Plátano": {
+    "promedios_mensuales": {
+      "Enero": 211.76,
+      "Febrero": 212.75,
+      "Marzo": 220.0,
+      "Abril": 207.38,
+      "Mayo": 202.22,
+      "Junio": 190.6,
+      "Julio": 192.22,
+      "Agosto": 210.58,
+      "Setiembre": 206.36,
+      "Octubre": 201.3,
+      "Noviembre": 218.82,
+      "Diciembre": 216.21
+    },
+    "meses_baratos": [
+      "Junio",
+      "Julio",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Marzo",
+      "Noviembre",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo": {
+    "promedios_mensuales": {
+      "Marzo": 486.67,
+      "Abril": 421.67,
+      "Mayo": 445.83,
+      "Junio": 474.38,
+      "Julio": 453.89,
+      "Agosto": 434.38,
+      "Setiembre": 483.33,
+      "Octubre": 516.67
+    },
+    "meses_baratos": [
+      "Abril",
+      "Agosto",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Octubre",
+      "Marzo",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 6.5
+  },
+  "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo unidad --- limón mesino": {
+    "promedios_mensuales": {
+      "Enero": 200.0
+    },
+    "meses_baratos": [
+      "Enero"
+    ],
+    "meses_caros": [
+      "Enero"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo unidad limón mesino": {
+    "promedios_mensuales": {
+      "Enero": 205.0,
+      "Febrero": 231.25,
+      "Marzo": 240.0,
+      "Abril": 203.75,
+      "Mayo": 142.5,
+      "Octubre": 80.0,
+      "Noviembre": 97.5,
+      "Diciembre": 146.25
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Noviembre",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Marzo",
+      "Febrero",
+      "Enero"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Precio precio producto unidad medida producto unidad medida colones colones aguacate hass": {
+    "promedios_mensuales": {
+      "Marzo": 2405.0
+    },
+    "meses_baratos": [
+      "Marzo"
+    ],
+    "meses_caros": [
+      "Marzo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Producto unidad medidparecio colones producto unidad medidparecio colones aguacate criollo": {
+    "promedios_mensuales": {
+      "Julio": 425.0
+    },
+    "meses_baratos": [
+      "Julio"
+    ],
+    "meses_caros": [
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Remolacha": {
+    "promedios_mensuales": {
+      "Enero": 418.21,
+      "Febrero": 394.5,
+      "Marzo": 350.4,
+      "Abril": 329.05,
+      "Mayo": 283.33,
+      "Junio": 266.8,
+      "Julio": 277.04,
+      "Agosto": 315.19,
+      "Setiembre": 324.77,
+      "Octubre": 308.09,
+      "Noviembre": 333.33,
+      "Diciembre": 352.72
+    },
+    "meses_baratos": [
+      "Junio",
+      "Julio",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Diciembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 4.3
+  },
+  "Repollo verde": {
+    "promedios_mensuales": {
+      "Enero": 665.28,
+      "Febrero": 769.75,
+      "Marzo": 693.8,
+      "Abril": 499.05,
+      "Mayo": 406.67,
+      "Junio": 454.2,
+      "Julio": 498.15,
+      "Agosto": 628.46,
+      "Setiembre": 527.73,
+      "Octubre": 507.86,
+      "Noviembre": 530.24,
+      "Diciembre": 569.89
+    },
+    "meses_baratos": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "meses_caros": [
+      "Febrero",
+      "Marzo",
+      "Enero"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Sandía": {
+    "promedios_mensuales": {
+      "Enero": 658.06,
+      "Febrero": 506.25,
+      "Marzo": 484.4,
+      "Abril": 525.24,
+      "Mayo": 520.93,
+      "Junio": 584.8,
+      "Julio": 642.04,
+      "Agosto": 705.96,
+      "Setiembre": 673.64,
+      "Octubre": 636.68,
+      "Noviembre": 672.14,
+      "Diciembre": 709.56
+    },
+    "meses_baratos": [
+      "Marzo",
+      "Febrero",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Diciembre",
+      "Agosto",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Tiquisque": {
+    "promedios_mensuales": {
+      "Enero": 1581.94,
+      "Febrero": 1363.0,
+      "Marzo": 1385.0,
+      "Abril": 1428.81,
+      "Mayo": 1515.56,
+      "Junio": 1650.4,
+      "Julio": 1708.15,
+      "Agosto": 1730.58,
+      "Setiembre": 1628.64,
+      "Octubre": 1400.91,
+      "Noviembre": 1600.24,
+      "Diciembre": 1422.11
+    },
+    "meses_baratos": [
+      "Febrero",
+      "Marzo",
+      "Octubre"
+    ],
+    "meses_caros": [
+      "Agosto",
+      "Julio",
+      "Junio"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Tomate primera": {
+    "promedios_mensuales": {
+      "Enero": 1395.0,
+      "Febrero": 922.75,
+      "Marzo": 908.6,
+      "Abril": 1096.43,
+      "Mayo": 862.41,
+      "Junio": 1026.8,
+      "Julio": 1088.7,
+      "Agosto": 1215.38,
+      "Setiembre": 830.45,
+      "Octubre": 917.5,
+      "Noviembre": 1174.05,
+      "Diciembre": 1241.33
+    },
+    "meses_baratos": [
+      "Setiembre",
+      "Mayo",
+      "Marzo"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Diciembre",
+      "Agosto"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Unidad precio unidad precio producto producto medida colones medida colones aguacate criollo unidad --- limón mesino": {
+    "promedios_mensuales": {
+      "Enero": 190.0
+    },
+    "meses_baratos": [
+      "Enero"
+    ],
+    "meses_caros": [
+      "Enero"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Vainica": {
+    "promedios_mensuales": {
+      "Enero": 1313.33,
+      "Febrero": 1096.0,
+      "Marzo": 1286.0,
+      "Abril": 996.9,
+      "Mayo": 980.19,
+      "Junio": 1232.8,
+      "Julio": 959.81,
+      "Agosto": 1153.85,
+      "Setiembre": 1077.05,
+      "Octubre": 964.32,
+      "Noviembre": 1167.38,
+      "Diciembre": 1164.56
+    },
+    "meses_baratos": [
+      "Julio",
+      "Octubre",
+      "Mayo"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Marzo",
+      "Junio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Yuca corriente": {
+    "promedios_mensuales": {
+      "Enero": 419.17,
+      "Febrero": 411.0,
+      "Marzo": 454.4,
+      "Abril": 450.48,
+      "Mayo": 462.04,
+      "Junio": 447.2,
+      "Julio": 443.7,
+      "Agosto": 453.85,
+      "Setiembre": 451.59,
+      "Octubre": 442.64,
+      "Noviembre": 447.38,
+      "Diciembre": 425.17
+    },
+    "meses_baratos": [
+      "Febrero",
+      "Enero",
+      "Diciembre"
+    ],
+    "meses_caros": [
+      "Mayo",
+      "Marzo",
+      "Agosto"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Yuca parafinada": {
+    "promedios_mensuales": {
+      "Enero": 500.28,
+      "Febrero": 478.25,
+      "Marzo": 506.0,
+      "Abril": 518.57,
+      "Mayo": 522.22,
+      "Junio": 512.0,
+      "Julio": 511.48,
+      "Agosto": 523.85,
+      "Setiembre": 524.77,
+      "Octubre": 518.59,
+      "Noviembre": 522.62,
+      "Diciembre": 487.72
+    },
+    "meses_baratos": [
+      "Febrero",
+      "Diciembre",
+      "Enero"
+    ],
+    "meses_caros": [
+      "Setiembre",
+      "Agosto",
+      "Noviembre"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Zanahoria": {
+    "promedios_mensuales": {
+      "Enero": 476.11,
+      "Febrero": 472.5,
+      "Marzo": 492.4,
+      "Abril": 513.1,
+      "Mayo": 456.48,
+      "Junio": 444.6,
+      "Julio": 489.07,
+      "Agosto": 504.42,
+      "Setiembre": 444.55,
+      "Octubre": 406.95,
+      "Noviembre": 529.52,
+      "Diciembre": 525.22
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Setiembre",
+      "Junio"
+    ],
+    "meses_caros": [
+      "Noviembre",
+      "Diciembre",
+      "Abril"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Zapallo": {
+    "promedios_mensuales": {
+      "Enero": 586.21,
+      "Febrero": 573.5,
+      "Marzo": 513.8,
+      "Abril": 452.38,
+      "Mayo": 446.3,
+      "Junio": 477.2,
+      "Julio": 447.59,
+      "Agosto": 455.77,
+      "Setiembre": 464.77,
+      "Octubre": 420.18,
+      "Noviembre": 488.33,
+      "Diciembre": 501.39
+    },
+    "meses_baratos": [
+      "Octubre",
+      "Mayo",
+      "Julio"
+    ],
+    "meses_caros": [
+      "Enero",
+      "Febrero",
+      "Marzo"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 6.1
+  },
+  "Ñampi": {
+    "promedios_mensuales": {
+      "Enero": 877.0,
+      "Febrero": 858.75,
+      "Marzo": 962.5,
+      "Abril": 1032.14,
+      "Mayo": 1356.25,
+      "Junio": 1479.38,
+      "Julio": 1462.5,
+      "Agosto": 1355.0,
+      "Setiembre": 1373.89,
+      "Octubre": 869.17,
+      "Noviembre": 725.0,
+      "Diciembre": 822.5
+    },
+    "meses_baratos": [
+      "Noviembre",
+      "Diciembre",
+      "Febrero"
+    ],
+    "meses_caros": [
+      "Junio",
+      "Julio",
+      "Setiembre"
+    ],
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
+  },
+  "Ñampí": {
+    "promedios_mensuales": {
+      "Enero": 1240.38,
+      "Febrero": 1267.5,
+      "Marzo": 1287.94,
+      "Abril": 1281.43,
+      "Mayo": 1373.68,
+      "Junio": 1421.18,
+      "Julio": 1344.12,
+      "Agosto": 1310.83,
+      "Setiembre": 1201.92,
+      "Octubre": 1253.0,
+      "Noviembre": 1241.47,
+      "Diciembre": 982.64
+    },
+    "meses_baratos": [
+      "Diciembre",
+      "Setiembre",
+      "Enero"
+    ],
+    "meses_caros": [
+      "Junio",
+      "Mayo",
+      "Julio"
+    ],
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.0
+  }
+}

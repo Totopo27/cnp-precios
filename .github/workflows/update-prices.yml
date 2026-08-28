@@ -1,0 +1,48 @@
+name: Actualización Automática de Precios CNP
+
+on:
+  schedule:
+    # Ejecutar todos los Lunes a las 12:00 UTC (6:00 AM hora Costa Rica)
+    - cron: '0 12 * * 1'
+  workflow_dispatch: # Permite ejecución manual desde GitHub
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ejecutar Pruebas Unitarias
+        run: |
+          python -m pytest tests/
+
+      - name: Ejecutar Ingesta y Reconstrucción ETL
+        run: |
+          python main.py
+
+      - name: Commit y Push de Datos Actualizados
+        run: |
+          git config --global user.name "CNP-Precios-Bot"
+          git config --global user.email "bot@cnp-precios.local"
+          git add docs/data/
+          if git diff --staged --quiet; then
+            echo "No hay cambios en los datos de precios."
+          else
+            git commit -m "update: actualización automática de precios y estacionalidad [skip ci]"
+            git push
+          fi

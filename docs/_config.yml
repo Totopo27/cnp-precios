@@ -1,0 +1,22 @@
+title: CNP Precios Costa Rica
+description: Consulta de precios actualizados del CNP - Costa Rica
+url: "https://Totopo27.github.io"
+baseurl: "/cnp-data"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - node_modules/
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
