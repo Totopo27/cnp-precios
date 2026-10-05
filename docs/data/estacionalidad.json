@@ -25,7 +25,7 @@
       "Julio"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 22.2
+    "descuento_estimado_porcentaje": 27.1
   },
   "Apio verde": {
     "promedios_mensuales": {
@@ -53,7 +53,7 @@
       "Diciembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 2.5
   },
   "Yuca parafinada": {
     "promedios_mensuales": {
@@ -104,8 +104,8 @@
       "Febrero",
       "Enero"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 52.5
   },
   "Limón mesino": {
     "promedios_mensuales": {
@@ -133,7 +133,7 @@
       "Febrero"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 49.3
+    "descuento_estimado_porcentaje": 37.9
   },
   "Ayote sazón": {
     "promedios_mensuales": {
@@ -161,7 +161,7 @@
       "Setiembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 1.6
   },
   "Precio precio producto unidad medida producto unidad medida colones colones aguacate criollo unidad --- limón mesino": {
     "promedios_mensuales": {
@@ -190,7 +190,7 @@
       "Setiembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 6.3
+    "descuento_estimado_porcentaje": 0.0
   },
   "Chayote tierno quelite": {
     "promedios_mensuales": {
@@ -217,8 +217,8 @@
       "Setiembre",
       "Marzo"
     ],
-    "estado_temporada_actual": "temporada_alta",
-    "descuento_estimado_porcentaje": 0.0
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 4.9
   },
   "Papa blanca": {
     "promedios_mensuales": {
@@ -246,7 +246,7 @@
       "Marzo"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 9.0
+    "descuento_estimado_porcentaje": 9.7
   },
   "Melón cantaloupe": {
     "promedios_mensuales": {
@@ -313,7 +313,7 @@
       "Marzo",
       "Setiembre"
     ],
-    "estado_temporada_actual": "normal",
+    "estado_temporada_actual": "temporada_alta",
     "descuento_estimado_porcentaje": 0.0
   },
   "Aguacate criollo": {
@@ -342,7 +342,7 @@
       "Diciembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 7.7
+    "descuento_estimado_porcentaje": 7.5
   },
   "Jocote tronador": {
     "promedios_mensuales": {
@@ -360,8 +360,8 @@
       "Octubre",
       "Setiembre"
     ],
-    "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 10.7
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 9.4
   },
   "Melón cantaloupe kg banano criollo": {
     "promedios_mensuales": {
@@ -381,7 +381,7 @@
       "Setiembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 2.5
+    "descuento_estimado_porcentaje": 0.0
   },
   "Aguacate hass kg manga pequeña": {
     "promedios_mensuales": {
@@ -425,7 +425,7 @@
       "Agosto"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 21.4
+    "descuento_estimado_porcentaje": 13.2
   },
   "Frijol tierno": {
     "promedios_mensuales": {
@@ -453,7 +453,7 @@
       "Noviembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 0.5
   },
   "Tiquisque": {
     "promedios_mensuales": {
@@ -481,7 +481,7 @@
       "Junio"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 8.7
   },
   "Zanahoria": {
     "promedios_mensuales": {
@@ -508,8 +508,8 @@
       "Diciembre",
       "Abril"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 7.3
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 15.1
   },
   "Platano": {
     "promedios_mensuales": {
@@ -529,7 +529,7 @@
       "Enero"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 6.1
   },
   "Camote": {
     "promedios_mensuales": {
@@ -625,8 +625,8 @@
       "Febrero",
       "Marzo"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 4.3
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 13.5
   },
   "Melón cantaloupe kg n.d banano criollo": {
     "promedios_mensuales": {
@@ -667,7 +667,7 @@
       "Marzo"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 11.1
+    "descuento_estimado_porcentaje": 12.6
   },
   "Lechuga americana": {
     "promedios_mensuales": {
@@ -695,7 +695,7 @@
       "Agosto"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 5.1
+    "descuento_estimado_porcentaje": 4.3
   },
   "Mora": {
     "promedios_mensuales": {
@@ -751,7 +751,7 @@
       "Marzo"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 3.3
   },
   "Culantro castilla": {
     "promedios_mensuales": {
@@ -778,8 +778,8 @@
       "Diciembre",
       "Octubre"
     ],
-    "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 13.5
+    "estado_temporada_actual": "temporada_alta",
+    "descuento_estimado_porcentaje": 0.0
   },
   "Producto unidad medidparecio colones producto unidad medidparecio colones aguacate criollo": {
     "promedios_mensuales": {
@@ -820,7 +820,7 @@
       "Marzo"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 5.4
+    "descuento_estimado_porcentaje": 5.1
   },
   "Chayote tierno criollo": {
     "promedios_mensuales": {
@@ -848,7 +848,7 @@
       "Junio"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 8.5
   },
   "Sandía": {
     "promedios_mensuales": {
@@ -875,7 +875,7 @@
       "Agosto",
       "Setiembre"
     ],
-    "estado_temporada_actual": "temporada_alta",
+    "estado_temporada_actual": "normal",
     "descuento_estimado_porcentaje": 0.0
   },
   "Plátano": {
@@ -904,7 +904,7 @@
       "Diciembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.6
+    "descuento_estimado_porcentaje": 3.0
   },
   "Unidad precio unidad precio producto producto medida colones medida colones aguacate criollo unidad --- limón mesino": {
     "promedios_mensuales": {
@@ -945,7 +945,7 @@
       "Enero"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 6.2
+    "descuento_estimado_porcentaje": 9.7
   },
   "Fresa": {
     "promedios_mensuales": {
@@ -972,8 +972,8 @@
       "Diciembre",
       "Julio"
     ],
-    "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 12.8
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 0.4
   },
   "Remolacha": {
     "promedios_mensuales": {
@@ -1001,7 +1001,7 @@
       "Diciembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 1.4
+    "descuento_estimado_porcentaje": 6.5
   },
   "Aguacate hass": {
     "promedios_mensuales": {
@@ -1028,8 +1028,8 @@
       "Abril",
       "Marzo"
     ],
-    "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 10.2
+    "estado_temporada_actual": "normal",
+    "descuento_estimado_porcentaje": 4.9
   },
   "Piña grande": {
     "promedios_mensuales": {
@@ -1057,7 +1057,7 @@
       "Setiembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 1.0
   },
   "Ñampi": {
     "promedios_mensuales": {
@@ -1084,8 +1084,8 @@
       "Julio",
       "Setiembre"
     ],
-    "estado_temporada_actual": "temporada_alta",
-    "descuento_estimado_porcentaje": 0.0
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 20.8
   },
   "Brócoli": {
     "promedios_mensuales": {
@@ -1112,8 +1112,8 @@
       "Julio",
       "Febrero"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 7.6
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 28.0
   },
   "Elote": {
     "promedios_mensuales": {
@@ -1141,7 +1141,7 @@
       "Agosto"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 6.0
   },
   "Coco": {
     "promedios_mensuales": {
@@ -1169,7 +1169,7 @@
       "Marzo"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 3.6
+    "descuento_estimado_porcentaje": 0.0
   },
   "Pepino": {
     "promedios_mensuales": {
@@ -1197,7 +1197,7 @@
       "Enero"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 14.2
+    "descuento_estimado_porcentaje": 13.4
   },
   "Manga grande": {
     "promedios_mensuales": {
@@ -1252,8 +1252,8 @@
       "Mayo",
       "Abril"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 6.7
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 19.2
   },
   "Huevos": {
     "promedios_mensuales": {
@@ -1309,7 +1309,7 @@
       "Julio"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 5.1
+    "descuento_estimado_porcentaje": 1.1
   },
   "Naranja": {
     "promedios_mensuales": {
@@ -1337,7 +1337,7 @@
       "Setiembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 0.8
   },
   "Precio precio producto unidad medida producto unidad medida colones colones aguacate hass": {
     "promedios_mensuales": {
@@ -1377,8 +1377,8 @@
       "Marzo",
       "Junio"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 3.5
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 13.6
   },
   "Limón mandarino": {
     "promedios_mensuales": {
@@ -1406,7 +1406,7 @@
       "Mayo"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 28.9
+    "descuento_estimado_porcentaje": 31.3
   },
   "Cebolla trenza": {
     "promedios_mensuales": {
@@ -1434,7 +1434,7 @@
       "Julio"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 22.2
+    "descuento_estimado_porcentaje": 27.0
   },
   "Banano criollo": {
     "promedios_mensuales": {
@@ -1462,7 +1462,7 @@
       "Setiembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "descuento_estimado_porcentaje": 0.8
   },
   "Ayote tierno": {
     "promedios_mensuales": {
@@ -1490,7 +1490,7 @@
       "Diciembre"
     ],
     "estado_temporada_actual": "temporada_baja",
-    "descuento_estimado_porcentaje": 12.7
+    "descuento_estimado_porcentaje": 15.5
   },
   "Coliflor": {
     "promedios_mensuales": {
@@ -1517,8 +1517,8 @@
       "Julio",
       "Febrero"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 0.0
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 10.8
   },
   "Manga pequeña": {
     "promedios_mensuales": {
@@ -1566,7 +1566,7 @@
       "Diciembre"
     ],
     "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 8.5
+    "descuento_estimado_porcentaje": 0.0
   },
   "Papaya": {
     "promedios_mensuales": {
@@ -1593,8 +1593,8 @@
       "Diciembre",
       "Noviembre"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 8.6
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 11.9
   },
   "Chile dulce primera": {
     "promedios_mensuales": {
@@ -1621,7 +1621,7 @@
       "Enero",
       "Febrero"
     ],
-    "estado_temporada_actual": "normal",
-    "descuento_estimado_porcentaje": 6.8
+    "estado_temporada_actual": "temporada_baja",
+    "descuento_estimado_porcentaje": 17.4
   }
 }

@@ -41,7 +41,7 @@
     "ultima_fecha": "2024-04-12T00:00:00",
     "tendencia_porcentaje": 3.6,
     "tendencia_tipo": "subida",
-    "estado_temporada": "temporada_baja",
+    "estado_temporada": "normal",
     "meses_baratos": [
       "Diciembre",
       "Noviembre",
@@ -74,7 +74,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 0.0,
     "tendencia_tipo": "estable",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Octubre",
       "Diciembre",
@@ -175,7 +175,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": -1.7,
     "tendencia_tipo": "estable",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Mayo",
       "Abril",
@@ -277,7 +277,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": -4.9,
     "tendencia_tipo": "bajada",
-    "estado_temporada": "temporada_alta",
+    "estado_temporada": "normal",
     "meses_baratos": [
       "Diciembre",
       "Noviembre",
@@ -294,7 +294,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": -15.2,
     "tendencia_tipo": "bajada",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Junio",
       "Mayo",
@@ -328,7 +328,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 12.0,
     "tendencia_tipo": "subida",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Mayo",
       "Junio",
@@ -345,7 +345,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 0.0,
     "tendencia_tipo": "estable",
-    "estado_temporada": "temporada_baja",
+    "estado_temporada": "temporada_alta",
     "meses_baratos": [
       "Enero",
       "Febrero",
@@ -379,7 +379,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 2.4,
     "tendencia_tipo": "subida",
-    "estado_temporada": "temporada_baja",
+    "estado_temporada": "normal",
     "meses_baratos": [
       "Setiembre",
       "Febrero",
@@ -430,7 +430,7 @@
     "ultima_fecha": "2021-10-15T00:00:00",
     "tendencia_porcentaje": 0.0,
     "tendencia_tipo": "estable",
-    "estado_temporada": "temporada_baja",
+    "estado_temporada": "normal",
     "meses_baratos": [
       "Setiembre",
       "Octubre",
@@ -699,7 +699,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": -4.6,
     "tendencia_tipo": "bajada",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Marzo",
       "Junio",
@@ -784,7 +784,7 @@
     "ultima_fecha": "2022-10-14T00:00:00",
     "tendencia_porcentaje": 18.3,
     "tendencia_tipo": "subida",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_alta",
     "meses_baratos": [
       "Abril",
       "Agosto",
@@ -816,7 +816,7 @@
     "ultima_fecha": "2022-03-04T00:00:00",
     "tendencia_porcentaje": 2.1,
     "tendencia_tipo": "subida",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Octubre",
       "Noviembre",
@@ -897,7 +897,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 0.0,
     "tendencia_tipo": "estable",
-    "estado_temporada": "temporada_alta",
+    "estado_temporada": "normal",
     "meses_baratos": [
       "Marzo",
       "Febrero",
@@ -963,7 +963,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 7.2,
     "tendencia_tipo": "subida",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Julio",
       "Octubre",
@@ -1014,7 +1014,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": -1.7,
     "tendencia_tipo": "estable",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Octubre",
       "Setiembre",
@@ -1031,7 +1031,7 @@
     "ultima_fecha": "2026-08-28T00:00:00",
     "tendencia_porcentaje": 0.0,
     "tendencia_tipo": "estable",
-    "estado_temporada": "normal",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Octubre",
       "Mayo",
@@ -1048,7 +1048,7 @@
     "ultima_fecha": "2022-10-14T00:00:00",
     "tendencia_porcentaje": -2.9,
     "tendencia_tipo": "bajada",
-    "estado_temporada": "temporada_alta",
+    "estado_temporada": "temporada_baja",
     "meses_baratos": [
       "Noviembre",
       "Diciembre",
